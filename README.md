@@ -7,6 +7,7 @@ A basic web-based classic snake game
 * Eat the red apple to grow your snake.
 
 # Possible extensions
+* keep track of score and add game over screen.
 * add pause button, p, to pause the game.
 * remove the wrapping ability of the snake so it dies when it hits a wall.
 * increase the speed of the snake either as time goes on/as snake grows.
